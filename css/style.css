@@ -271,7 +271,8 @@ section {
 }
 
 .about .row .content p {
-    font-size: 1.7rem;
+    font-size: medium;
+    text-align: justify;
     color: var(--light-color);
     line-height: 1.8;
     padding: 1rem 0;
@@ -362,6 +363,7 @@ section {
 
 .services .box-container .box p {
     font-size: 1.4rem;
+    text-align: justify;
     line-height: 1.8;
     color: var(--light-color);
 }
