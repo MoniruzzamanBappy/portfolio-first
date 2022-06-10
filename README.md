@@ -7,7 +7,7 @@ To see my portfolio [click here](https://moniruzzamanbappy.github.io/portfolio-f
 <br>
 
 [![Facebook](https://img.shields.io/badge/Facebook-Follow-blue)](https://www.facebook.com/raimbos1)
-[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23FB730F)](https://www.instagram.com/bappy123)
+[![Instagram](https://img.shields.io/badge/Instagram-Follow-%23FB730F)](https://www.instagram.com/bappy.123)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Follow-blue)](https://www.linkedin.com/in/mdmoniruzzamanbappy)
 
 ![GitHub stats](https://github-readme-stats.vercel.app/api?username=MoniruzzamanBappy&show_icons=true)  
